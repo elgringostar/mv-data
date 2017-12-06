@@ -185,6 +185,15 @@
 							"link": "https://www.google.fr"
 						}
 					]
+				},
+				{
+					"titreBloc": "sdfsdf",
+					"link": [
+						{
+							"link": "https://www.google.fr",
+							"txtLink": "dfsf"
+						}
+					]
 				}
 			]
 		}
