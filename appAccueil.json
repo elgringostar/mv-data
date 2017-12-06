@@ -15,6 +15,18 @@
 					]
 				}
 			]
+		},
+		{
+			"bloc": [
+				{
+					"titreBloc": "gergergr",
+					"link": [
+						{
+							"link": "https://www.google.fr"
+						}
+					]
+				}
+			]
 		}
 	],
 	"background": "bg.png"
