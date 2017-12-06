@@ -104,6 +104,69 @@
 							"txtLink": "Formation"
 						}
 					]
+				},
+				{
+					"titreBloc": "www.amf-assurances.fr",
+					"link": [
+						{
+							"link": "http://intrawebv5dev.amf-assurances.fr/",
+							"txtLink": "Développement"
+						},
+						{
+							"link": "http://intrawebv5int.amf-assurances.fr/",
+							"txtLink": "Intégration"
+						},
+						{
+							"link": "http://extrawebv5rct.amf-assurances.com/",
+							"txtLink": "Recette"
+						},
+						{
+							"link": "http://www.amf-assurances.com/",
+							"txtLink": "Production"
+						}
+					]
+				},
+				{
+					"titreBloc": "www.imentreprises.fr",
+					"link": [
+						{
+							"link": "https://intrawebv1dev.imentreprises.fr/",
+							"txtLink": "Développement"
+						},
+						{
+							"link": "https://intrawebv1int.imentreprises.fr/",
+							"txtLink": "Intégration"
+						},
+						{
+							"link": "https://extrawebv1rct.imentreprises.com/",
+							"txtLink": "Recette"
+						},
+						{
+							"link": "https://www.imentreprises.fr",
+							"txtLink": "Production"
+						}
+					]
+				},
+				{
+					"titreBloc": "www.matmutpourlesarts.fr",
+					"link": [
+						{
+							"link": "http://intrawebv1dev.matmutpourlesarts.fr/",
+							"txtLink": "Développement"
+						},
+						{
+							"link": "http://intrawebv1int.matmutpourlesarts.fr/",
+							"txtLink": "Intégration"
+						},
+						{
+							"link": "http://extrawebv1rct.matmutpourlesarts.com/",
+							"txtLink": "Recette"
+						},
+						{
+							"link": "http://www.matmutpourlesarts.fr/",
+							"txtLink": "Production"
+						}
+					]
 				}
 			]
 		}
