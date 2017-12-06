@@ -176,6 +176,13 @@
 					"link": [
 						{
 							"link": "https://www.google.fr"
+						},
+						{
+							"link": "http://www.rihalnet.com",
+							"txtLink": "rihalnet.com"
+						},
+						{
+							"link": "https://www.google.fr"
 						}
 					]
 				}
