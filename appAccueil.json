@@ -77,18 +77,6 @@
 		{
 			"bloc": [
 				{
-					"titreBloc": "IUT",
-					"link": [
-						{
-							"link": "https://www.google.fr"
-						}
-					]
-				}
-			]
-		},
-		{
-			"bloc": [
-				{
 					"titreBloc": "www.matmut.fr",
 					"link": [
 						{
@@ -177,6 +165,17 @@
 						{
 							"link": "https://www.imentreprises.fr",
 							"txtLink": "Production"
+						}
+					]
+				}
+			]
+		},
+		{
+			"bloc": [
+				{
+					"link": [
+						{
+							"link": "https://www.google.fr"
 						}
 					]
 				}
