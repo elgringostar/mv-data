@@ -54,6 +54,23 @@
 							"txtLink": "Formation"
 						}
 					]
+				},
+				{
+					"titreBloc": "Application mobile",
+					"link": [
+						{
+							"link": "https://itunesconnect.apple.com/",
+							"txtLink": "iTunes Connect"
+						},
+						{
+							"link": "https://developer.apple.com/",
+							"txtLink": "Apple Developer"
+						},
+						{
+							"link": "https://play.google.com/apps/publish/",
+							"txtLink": "Google Play"
+						}
+					]
 				}
 			]
 		},
