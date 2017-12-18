@@ -171,7 +171,17 @@
 			]
 		},
 		{
-			"bloc": []
+			"bloc": [
+				{
+					"titreBloc": "GUI",
+					"link": [
+						{
+							"link": "intrawebv6local.matmut.fr/aide/appli-v4",
+							"txtLink": "Appli V4 Local"
+						}
+					]
+				}
+			]
 		},
 		{
 			"bloc": [
@@ -188,15 +198,6 @@
 						{
 							"link": "https://www.google.fr",
 							"txtLink": "fzfzfez"
-						}
-					]
-				},
-				{
-					"titreBloc": "fezfzefez",
-					"link": [
-						{
-							"link": "https://www.google.fr",
-							"txtLink": "fezfez"
 						}
 					]
 				}
