@@ -1,4 +1,4 @@
 {
-	"structureDesPages": "<p>La structure des pages</p>",
+	"structureDesPages": "<p>La structure des pages</p>\n<p>zolejfpoz jfopjz&nbsp;</p>\n<p>j oifjhzp hfpoz jfpoezjpiz p^$ k^$</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
 	"gestionPointsDeRupture": "<p>Le site Matmut V6 g&egrave;re trois principales tailles d'&eacute;crans :</p>\n<ul>\n<li>Mobile (0 &agrave; 739px)</li>\n<li>Tablette (740 &agrave; 991px)</li>\n<li>Bureau (d&egrave;s 992px)</li>\n</ul>\n<p>Pour masquer certains &eacute;l&eacute;ments sur chacunes de ces trois r&eacute;solutions, on peut utiliser respectivement les classe <strong>.hidemob</strong>, <strong>.hidetab</strong> et <strong>.hidedesk</strong></p>\n<p>Pour n'afficher un champ que sur mobile par exemple, on lui ajoutera les classes <strong>.hidetab</strong> et <strong>.hidedesk</strong></p>"
 }
