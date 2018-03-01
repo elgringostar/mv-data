@@ -5,7 +5,36 @@
 			"collection": [
 				{
 					"jour": "01",
-					"emoticone": []
+					"emoticone": [],
+					"emoticone-content": [],
+					"emoticone-moyen": [],
+					"emoticone-pascontent": []
+				},
+				{
+					"emoticone-content": [],
+					"emoticone-moyen": [],
+					"emoticone-pascontent": []
+				},
+				{
+					"jour": "03",
+					"emoticone-content": [
+						" ",
+						" "
+					],
+					"emoticone-moyen": [
+						" "
+					],
+					"emoticone-pascontent": []
+				},
+				{
+					"emoticone-content": [],
+					"emoticone-moyen": [],
+					"emoticone-pascontent": []
+				},
+				{
+					"emoticone-content": [],
+					"emoticone-moyen": [],
+					"emoticone-pascontent": []
 				}
 			],
 			"content": [
