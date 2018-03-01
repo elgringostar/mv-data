@@ -4,20 +4,8 @@
 			"libMois": "Mars 2018",
 			"collection": [
 				{
-					"content": [
-						"1f600.png"
-					],
-					"moyen": [
-						"1f610.png"
-					],
-					"pascontent": [
-						"1f621.png"
-					],
-					"collection": [],
-					"emoticone": [
-						"test2",
-						"fzfzfzfez"
-					]
+					"jour": "01",
+					"emoticone": []
 				}
 			],
 			"content": [
