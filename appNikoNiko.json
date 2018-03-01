@@ -227,5 +227,10 @@
 			]
 		}
 	],
-	"background": "bg.png"
+	"background": "bg.png",
+	"date": [
+		{
+			"nikoniko": "111"
+		}
+	]
 }
