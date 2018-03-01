@@ -97,15 +97,9 @@
 				{
 					"date": [
 						{
-							"emoticone-content": [
-								" "
-							],
-							"emoticone-moyen": [
-								" "
-							],
-							"emoticone-pascontent": [
-								" "
-							]
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
 						},
 						{
 							"emoticone-content": [],
