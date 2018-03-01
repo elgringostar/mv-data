@@ -92,6 +92,72 @@
 					"emoticone-moyen": [],
 					"emoticone-pascontent": []
 				}
+			],
+			"semaine": [
+				{
+					"date": [
+						{
+							"emoticone-content": [
+								" "
+							],
+							"emoticone-moyen": [
+								" "
+							],
+							"emoticone-pascontent": [
+								" "
+							]
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						}
+					]
+				},
+				{
+					"date": [
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						},
+						{
+							"emoticone-content": [],
+							"emoticone-moyen": [],
+							"emoticone-pascontent": []
+						}
+					]
+				}
 			]
 		}
 	],
