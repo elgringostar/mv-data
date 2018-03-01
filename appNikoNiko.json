@@ -229,8 +229,10 @@
 	],
 	"background": "bg.png",
 	"date": [
+		{},
 		{
-			"nikoniko": "111"
+			"nikoniko": "111",
+			"test": "grrr\ngrgrgr\n"
 		}
 	]
 }
