@@ -75,35 +75,6 @@
 							"txtLink": "Formation"
 						}
 					]
-				},
-				{
-					"titreBloc": "Application mobile",
-					"link": [
-						{
-							"link": "https://itunesconnect.apple.com/",
-							"txtLink": "iTunes Connect"
-						},
-						{
-							"link": "https://developer.apple.com/",
-							"txtLink": "Apple Developer"
-						},
-						{
-							"link": "https://play.google.com/apps/publish/",
-							"txtLink": "Google Play"
-						}
-					]
-				},
-				{
-					"link": [
-						{
-							"link": "http://caniuse.com/",
-							"txtLink": "Can I Use"
-						},
-						{
-							"link": "http://www.icomoon.io/",
-							"txtLink": "Icomoon"
-						}
-					]
 				}
 			]
 		},
@@ -174,7 +145,37 @@
 			]
 		},
 		{
-			"bloc": []
+			"bloc": [
+				{
+					"link": [
+						{
+							"link": "http://caniuse.com/",
+							"txtLink": "Can I Use"
+						},
+						{
+							"link": "http://www.icomoon.io/",
+							"txtLink": "Icomoon"
+						}
+					]
+				},
+				{
+					"titreBloc": "Application mobile",
+					"link": [
+						{
+							"link": "https://itunesconnect.apple.com/",
+							"txtLink": "iTunes Connect"
+						},
+						{
+							"link": "https://developer.apple.com/",
+							"txtLink": "Apple Developer"
+						},
+						{
+							"link": "https://play.google.com/apps/publish/",
+							"txtLink": "Google Play"
+						}
+					]
+				}
+			]
 		},
 		{
 			"bloc": [
