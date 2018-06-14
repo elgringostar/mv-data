@@ -122,6 +122,10 @@
 						{
 							"link": "https://app2.abtasty.com/experiments",
 							"txtLink": "AB Tasty"
+						},
+						{
+							"link": "https://tagmanager.google.com/",
+							"txtLink": "Google Tag Manager"
 						}
 					]
 				}
