@@ -102,12 +102,21 @@
 		{
 			"bloc": [
 				{
-					"titreBloc": "www.matmut.fr",
+					"titreBloc": "GUI",
 					"link": [
 						{
-							"link": "http://intrawebv6local.matmut.fr/",
-							"txtLink": "Local"
+							"link": "http://intrawebv6local.matmut.fr/aide/appli-v4-1",
+							"txtLink": "Appli V4.1 Local"
 						},
+						{
+							"link": "http://intrawebv6dev.matmut.fr/aide/appli-v4-1",
+							"txtLink": "Appli V4.1 Dev"
+						}
+					]
+				},
+				{
+					"titreBloc": "www.matmut.fr",
+					"link": [
 						{
 							"link": "http://intrawebv6dev.matmut.fr/",
 							"txtLink": "Développement"
@@ -148,9 +157,17 @@
 						{
 							"link": "http://www.amf-assurances.com/",
 							"txtLink": "Production"
+						},
+						{
+							"link": "http://intrawebv6local.matmut.fr/",
+							"txtLink": "Local"
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"bloc": [
 				{
 					"titreBloc": "www.matmutpourlesarts.fr",
 					"link": [
@@ -190,23 +207,6 @@
 						{
 							"link": "https://www.imentreprises.fr",
 							"txtLink": "Production"
-						}
-					]
-				}
-			]
-		},
-		{
-			"bloc": [
-				{
-					"titreBloc": "GUI",
-					"link": [
-						{
-							"link": "http://intrawebv6local.matmut.fr/aide/appli-v4-1",
-							"txtLink": "Appli V4.1 Local"
-						},
-						{
-							"link": "http://intrawebv6dev.matmut.fr/aide/appli-v4-1",
-							"txtLink": "Appli V4.1 Dev"
 						}
 					]
 				}
