@@ -158,6 +158,23 @@
 		{
 			"bloc": [
 				{
+					"titreBloc": "Perso",
+					"link": [
+						{
+							"link": "https://www.gares-sncf.com/fr/gare/frurd/rouen-rive-droite/transports-horaires/liste?board=train_time0&op=departure",
+							"txtLink": "Gare Rouen"
+						},
+						{
+							"link": "http://www.gares-en-mouvement.com/fr/frpsl/horaires-temps-reel/dep/",
+							"txtLink": "Gare Paris"
+						},
+						{
+							"link": "https://my.netatmo.com/app/station",
+							"txtLink": "Netatmo"
+						}
+					]
+				},
+				{
 					"titreBloc": "www.amf-assurances.fr",
 					"link": [
 						{
