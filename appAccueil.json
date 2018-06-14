@@ -216,9 +216,6 @@
 						{
 							"link": "http://www.cotes.fr/",
 							"txtLink": "Cotes Match"
-						},
-						{
-							"link": "https://www.google.fr"
 						}
 					]
 				}
@@ -245,15 +242,7 @@
 			]
 		},
 		{
-			"bloc": [
-				{
-					"link": [
-						{
-							"link": "https://www.google.fr"
-						}
-					]
-				}
-			]
+			"bloc": []
 		}
 	],
 	"background": "bg.png"
