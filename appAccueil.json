@@ -176,8 +176,12 @@
 					"titreBloc": "GUI",
 					"link": [
 						{
-							"link": "http://intrawebv6local.matmut.fr/aide/appli-v4",
-							"txtLink": "Appli V4 Local"
+							"link": "http://intrawebv6local.matmut.fr/aide/appli-v4-1",
+							"txtLink": "Appli V4.1 Local"
+						},
+						{
+							"link": "http://intrawebv6dev.matmut.fr/aide/appli-v4-1",
+							"txtLink": "Appli V4.1 Dev"
 						}
 					]
 				},
