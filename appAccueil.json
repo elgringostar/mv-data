@@ -149,6 +149,14 @@
 				{
 					"link": [
 						{
+							"link": "https://www.google.fr",
+							"txtLink": "Google"
+						}
+					]
+				},
+				{
+					"link": [
+						{
 							"link": "http://caniuse.com/",
 							"txtLink": "Can I Use"
 						},
