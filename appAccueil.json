@@ -118,8 +118,13 @@
 						{
 							"link": "https://tagmanager.google.com/",
 							"txtLink": "Google Tag Manager"
+						},
+						{
+							"link": "https://www.atinternet-solutions.com/",
+							"txtLink": "AT Internet"
 						}
-					]
+					],
+					"titreBloc": "Analytic"
 				}
 			]
 		},
