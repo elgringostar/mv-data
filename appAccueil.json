@@ -20,6 +20,10 @@
 						{
 							"link": "https://pronopoly-matmut.herokuapp.com/match",
 							"txtLink": "Pronopoly"
+						},
+						{
+							"link": "http://www.cotes.fr/",
+							"txtLink": "Cotes"
 						}
 					]
 				},
