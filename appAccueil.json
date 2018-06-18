@@ -135,6 +135,14 @@
 		{
 			"bloc": [
 				{
+					"link": [
+						{
+							"link": "http://intraappdev08.matmut.fr/webmau/accueil.html",
+							"txtLink": "Accueil DEV"
+						}
+					]
+				},
+				{
 					"titreBloc": "GUI",
 					"link": [
 						{
