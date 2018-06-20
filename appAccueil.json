@@ -139,6 +139,14 @@
 						{
 							"link": "http://intraappdev08.matmut.fr/webmau/accueil.html",
 							"txtLink": "Accueil DEV"
+						},
+						{
+							"link": "http://intrawebv5dev.matmut.fr/admin/transfert.asp",
+							"txtLink": "Transfet Web"
+						},
+						{
+							"link": "https://matmut.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning.nodetail",
+							"txtLink": "JIRA"
 						}
 					]
 				},
