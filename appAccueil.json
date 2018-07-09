@@ -1,0 +1,26 @@
+{
+	"colonne": [
+		{
+			"bloc": [
+				{
+					"titreBloc": "Titre du bloc",
+					"link": [
+						{
+							"link": "https://www.google.fr",
+							"txtLink": "Texte du lien"
+						}
+					]
+				},
+				{
+					"titreBloc": "test",
+					"link": [
+						{
+							"link": "https://www.google.fr"
+						}
+					]
+				}
+			]
+		}
+	],
+	"background": "bg.png"
+}
